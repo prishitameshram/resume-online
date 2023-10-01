@@ -1,0 +1,166 @@
+/*
+	@name resume
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 2132px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_resume_home {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 2132px;
+}
+
+#_bg__menu {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 2132px;
+	background:rgba(255,255,255,1);
+}
+
+
+#hero {
+	top: 146px;
+	left: 0px;
+	width: 1440px;
+	height: 517.89px;
+}
+
+#menu {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 146px;
+}
+
+#_bg__menu_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 146px;
+	background:#;
+}
+
+
+#frame_1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 146px;
+}
+
+
+#menu_txt {
+	top: 50px;
+	left: 54px;
+	width: 102px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#work {
+	top: 50px;
+	left: 1067px;
+	width: 97px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#contact {
+	top: 50px;
+	left: 1237px;
+	width: 131px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#h1 {
+	top: 785px;
+	left: 54px;
+	width: 122px;
+	height: 82px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 50px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#h2 {
+	top: 1289px;
+	left: 54px;
+	width: 322px;
+	height: 82px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 50px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#hand_img {
+	top: 763px;
+	left: 164px;
+	width: 94px;
+	height: 83px;
+}
+
+
+#p1 {
+	top: 905px;
+	left: 54px;
+	width: 1328.6px;
+	height: 287.6px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 26px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#prj_1 {
+	top: 1441px;
+	left: 150px;
+	width: 1140px;
+	height: 641.56px;
+}
+
+
+#logo {
+	top: 28px;
+	left: 135px;
+	width: 107px;
+	height: 85px;
+}
+
+
+
+/* Add your custom CSS here */
