@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Prishita-resume'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FC589583F4ED4C7DA8FF5B879E4945F1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4E20B86E3243402BBD143C015E489260 }}
           package: .
